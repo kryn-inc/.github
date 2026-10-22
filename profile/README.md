@@ -10,16 +10,24 @@
 <a href="https://discord.gg/BZK9UYZ3HF"><img src="https://img.shields.io/badge/💬_Discord-Join_Us-5865F2?style=for-the-badge" alt="Discord"></a>
 <a href="https://www.youtube.com/@kryn-inc"><img src="https://img.shields.io/badge/▶_YouTube-Watch-CC0000?style=for-the-badge" alt="YouTube"></a>
 
+</div>
+
 ---
 
 ## 🪄 About Us
+
+<div align="center">
 
 Kryn Inc. is a developer community centered around **"Minecraft", "Anarchy", "Coding", "FUN", and "Experiments"**. We build / improve things, explore ideas, and contribute to anarchy communities, making the experience more fun and engaging for everyone.
 
 <a href="https://github.com/kryn-inc/Kryn-Inc"><img src="https://img.shields.io/badge/🌐_About_Us-Learn_More-6b0000?style=for-the-badge" alt="About Kryn Inc."></a>
 <a href="https://github.com/kryn-inc/Feedback"><img src="https://img.shields.io/badge/💡_Feedback-Share_Ideas-444444?style=for-the-badge" alt="Feedback Repository"></a>
 
+</div>
+
 ## ✨ Our Work
+
+<div align="center">
 
 | Project                                                                                                                                                                                | Description                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
@@ -29,19 +37,31 @@ Kryn Inc. is a developer community centered around **"Minecraft", "Anarchy", "Co
 
 <a href="https://github.com/orgs/kryn-inc/repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-View_Our_Work-444444?style=for-the-badge" alt="Explore all repositories"></a>
 
+</div>
+
 ## 🎭 Become a Beyonder
+
+<div align="center">
 
 Interested in Minecraft anarchy development? Ask about applying to become a Kryn developer in our public Discord. **Developer applications are open!**
 
 <a href="https://discord.gg/BZK9UYZ3HF"><img src="https://img.shields.io/badge/Apply_Now-Join_Public_Kryn-6b0000?style=for-the-badge" alt="Apply to become a Kryn developer"></a>
 
+</div>
+
 ## \*tip the Magicians!
+
+<div align="center">
 
 **The magic asks for nothing.** What it earns simply keeps the servers alive, the bots at work, and the late nights of building well spent.
 
 <a href="https://github.com/kryn-inc/.github/blob/main/DONATE.md"><img src="https://img.shields.io/badge/Tip_the_Magicians-Donate-6b0000?style=for-the-badge" alt="Tip the Magicians"></a>
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🎩 Every Developer Has a Trick.
 
