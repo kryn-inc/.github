@@ -33,7 +33,7 @@ Kryn Inc. is a developer community centered around **"Minecraft", "Anarchy", "Co
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
 | <a href="https://github.com/kryn-inc/6bBotAPI"><img src="https://img.shields.io/badge/6bBotAPI-6b0000?style=for-the-badge&logo=github&logoColor=white" alt="6bBotAPI" width="120"></a> | A Bot API that helps your bot connect easily with the 6b6t Minecraft server. |
 | <a href="https://github.com/kryn-inc/Shynchi"><img src="https://img.shields.io/badge/Shynchi-6b0000?style=for-the-badge&logo=github&logoColor=white" alt="Shynchi" width="120"></a>    | idk All-in-one logging bot.                                                  |
-| <a href="https://github.com/kryn-inc/Kazeqi"><img src="https://img.shields.io/badge/Kazeqi-6b0000?style=for-the-badge&logo=github&logoColor=white" alt="Kazeqi" width="120"></a>       | A bot that lets you teleport to spawn on 6b6t easily, active 24/7.           |
+| <a href="https://github.com/kryn-inc/Kazeqi"><img src="https://img.shields.io/badge/KrynSpawn-6b0000?style=for-the-badge&logo=github&logoColor=white" alt="Kazeqi" width="120"></a>       | A bot that lets you teleport to spawn on 6b6t easily, active 24/7.           |
 
 <a href="https://github.com/orgs/kryn-inc/repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-View_Our_Work-444444?style=for-the-badge" alt="Explore all repositories"></a>
 
