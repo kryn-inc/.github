@@ -6,7 +6,7 @@
 
 ### Developers Wearing Magician Masks!
 
-<a href="https://kryn.clapfy.games/"><img src="https://img.shields.io/badge/🌐_Website-Visit_Kryn-0A0A0A?style=for-the-badge" alt="Website"></a>
+<a href="https://kryn.dev/"><img src="https://img.shields.io/badge/🌐_Website-Visit_Kryn-0A0A0A?style=for-the-badge" alt="Website"></a>
 <a href="https://discord.gg/BZK9UYZ3HF"><img src="https://img.shields.io/badge/💬_Discord-Join_Us-5865F2?style=for-the-badge" alt="Discord"></a>
 <a href="https://www.youtube.com/@kryn-inc"><img src="https://img.shields.io/badge/▶_YouTube-Watch-CC0000?style=for-the-badge" alt="YouTube"></a>
 
